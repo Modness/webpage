@@ -1,0 +1,228 @@
+* {
+    font-family: serif;
+}
+.wrapper {
+    margin: 0px auto;
+    width: 1200px;
+    background-color: white;
+}
+.main {
+    background-color: #eaeaea;
+    width: 1100px;
+    padding-left: 10px;
+}
+.header {
+    width: 1065px;
+    height: 75px;
+    padding-left: 35px;
+    background-color: #0d0d0d;
+    color: #eaeae9;
+    border-radius: 8px;
+}
+    .header h2 {
+        display: inline-block;
+        vertical-align: top;
+    }
+    .header img {
+        width: 65px;
+        height: 50px;
+        display: inline-block;
+        margin-top: 15px;
+        margin-left: 5px;
+    }
+.line {
+    border-bottom: 2px solid lightgray;
+}
+.resources {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 220px;
+    margin-top: 10px;
+}
+    .resources a {
+    color: #eaeae9;
+    }
+    .resources span {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+.borderline {
+    border-left: 1px solid white;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+.helping_others {
+    width: 1100px;
+    height: 350px;
+    background-color: #eaeae9;
+    color: #111111;
+    display: inline-block;
+    margin-top: 15px;
+}
+    .helping_others img {
+    width: 540px;
+    height: 325px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 45px;
+}
+.description {
+    width: 470px;
+    height: 350px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 40px;
+}
+    .description h1 {
+        width: 450px;
+        margin-top: 0px;
+        margin-bottom: 43px;
+    }
+    .description p {
+        width: 469px;
+        font-size: 18px;
+    }
+#learn_more {
+    background-color: #111111;
+    color: #eaeae9;
+    padding: 10px 12px;
+    font-size: 14px;
+    margin-left: 350px;
+    margin-top: 25px;
+    border-radius: 8px;
+}
+.middle {
+    width: 725px;
+    height: 450px;
+    background-color: #eaeae9;
+    color: #111111;
+    display: inline-block;
+    margin-top: 5px;
+}
+.safe_ecohelp {
+    width: 225px;
+    height: 200px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 0px 5px;
+    margin-top: 10px;
+}
+    .safe_ecohelp img {
+        width: 40px;
+        height: 40px;
+        margin-left: 5px;
+        margin-top: 10px;
+        display: inline-block;
+    }
+    .safe_ecohelp h2 {
+        margin-left: 0px 0px 0px 10px;
+        vertical-align: top;
+        width: 175px;
+        display: inline-block;
+    }
+#vertical_border1 {
+    border-left: 1px solid lightgray;
+    margin-left: 2px;
+    height: 150px;
+}
+#vertical_border2 {
+    border-left: 1px solid lightgray;
+    margin-left: 2px;
+    height: 150px;
+}
+.welcome {
+    width: 683px;
+    height: 225px;
+    background-color: #eaeae9;
+    color: #111111;
+}
+    .welcome h2 {
+        vertical-align: top;
+    }
+    .welcome p {
+        margin-top: 30px;
+    }
+.right_sidebar {
+    width: 365px;
+    height: 450px;
+    background-color: white;
+    color: #111111;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 5px;
+    margin-top: 10px;
+    border-radius: 8px;
+} 
+    .right_sidebar img {
+        vertical-align: top;
+        display: inline-block;
+        width: 140px;
+        height: 325px;
+    }
+.why_waste {
+    width: 175px;
+    height: 450px;
+    display: inline-block;
+    padding-left: 10px;
+}
+    .why_waste h2 {
+        vertical-align: top;
+        display: inline-block;
+    }
+    .why_waste p {
+        display: inline-block;
+    }
+    .why_waste a {
+        margin-top: 5px;
+    }
+.bottom {
+    background-color: #0d0d0d;
+    color: #eaeae9;
+    border-radius: 8px;
+    width: 1078px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+} 
+.contact_suppform {
+    display: inline-block;
+    vertical-align: top;
+    width: 350px;
+}
+    .contact_suppform a {
+        color: #eaeae9;
+        text-decoration: none;
+    }
+    .contact_supform p {
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+.email {
+    margin-top: 30px;
+}
+.bottom_borders {
+    border-bottom: 1px solid #525151;
+    width: 320px;
+}
+.form {
+    width: 350px;
+    display: inline-block;
+    margin-left: 5px;
+} 
+.contact_form input{
+    background-color: #3e3d3d;
+    color: #878585;
+    border: none;
+}
+.contact_form input#contact {
+    background-color: black;
+    color: #878585;
+    border: 1px solid #3a3a3a;
+}
+.footer {
+    margin-top: 25px;
+    color: #6f6d6d;
+    text-align: center;
+    height: 25px;
+    padding-bottom: 5px;
+    font-weight: lighter;
+}  
